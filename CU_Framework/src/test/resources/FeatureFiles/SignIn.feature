@@ -1,4 +1,7 @@
+@Sign-In
 Feature: Testing to validate SignIn functionality
+
+	@Sign-In-Positive
   Scenario: Testing to validate SignIn functionality
     Given  Go to the homepage of the application "https://www.rentalcars.com/"
     And    Click on Sign In Tab
